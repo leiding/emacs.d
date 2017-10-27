@@ -1,4 +1,5 @@
 * Features
+- Test
 - Efficient. Emacs *starts up in one second*
 - Robust. Emacs will never crash after a full package upgrade
 - Support Windows. You won't get inferior performance on Windows
