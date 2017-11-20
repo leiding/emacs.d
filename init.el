@@ -137,7 +137,10 @@
   ;; need statistics of keyfreq asap
   (require 'init-keyfreq)
   (require 'init-httpd)
-
+  ;; elixir mode
+  (require 'init-elixir)
+  ;;smartparens
+  (require 'init-smartparens)
   ;; projectile costs 7% startup time
 
   ;; misc has some crucial tools I need immediately

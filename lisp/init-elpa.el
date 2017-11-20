@@ -64,8 +64,8 @@
         ;; ("gnu" . "https://elpa.gnu.org/packages/")
         ("localelpa" . "~/.emacs.d/localelpa/")
         ;; ("my-js2-mode" . "https://raw.githubusercontent.com/redguardtoo/js2-mode/release/") ; github has some issue
-        ("melpa" . "https://melpa.org/packages/")
-        ("melpa-stable" . "https://stable.melpa.org/packages/")))
+        ("melpa" . "http://melpa.org/packages/")
+        ("melpa-stable" . "http://stable.melpa.org/packages/")))
 
 ;; Un-comment below line if you follow "Install stable version in easiest way"
 ;; (setq package-archives '(("myelpa" . "~/projs/myelpa")))
